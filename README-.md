@@ -1,1 +1,1 @@
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mctsts&show_icons=true&locale=en" alt="mctsts" width="45%"/><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mctsts&" alt="mctsts" width="47.5%"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mctsts&show_icons=true&locale=en&show=reviews,prs_merged,prs_merged_percentage" alt="mctsts" width="45%"/><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mctsts&" alt="mctsts" width="47.5%"/></p>
